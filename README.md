@@ -1,5 +1,8 @@
 # vueapiconsumer
 
+This app is used to Consume the Sample Fast API app. It makes a GET request and then prints the msg.
+This uses Axios to make the API call.
+
 ## Project setup
 ```
 npm install
@@ -20,5 +23,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
